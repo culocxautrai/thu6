@@ -13,7 +13,7 @@
 
 Xin chào!
 
-Tôi là Nguyen Xuan Loc, một người đam mê về việc khám phá và học hỏi về thế giới xung quanh. Tôi tin rằng mỗi người đều mang trong mình những câu chuyện đầy ý nghĩa và những trải nghiệm đáng quý, và tôi rất háo hức được chia sẻ của tôi với bạn.
+Tôi là Nguyễn Mai Ngọc Lâm, một người đam mê về việc khám phá và học hỏi về thế giới xung quanh. Tôi tin rằng mỗi người đều mang trong mình những câu chuyện đầy ý nghĩa và những trải nghiệm đáng quý, và tôi rất háo hức được chia sẻ của tôi với bạn.
 
 Sinh ra và lớn lên tại ĐAKLak, tôi đã trải qua những thời kỳ học hỏi và phát triển, từ những buổi học đầy kích thích đến những cuộc phiêu lưu ngoài trời tuyệt vời. Bằng cách tận dụng mỗi cơ hội để trải nghiệm và học hỏi, tôi đã phát triển một tinh thần sáng tạo và một cái nhìn đa chiều về cuộc sống.
 
@@ -25,8 +25,8 @@ Tôi tin rằng mỗi ngày là một cơ hội mới để học hỏi và phá
 
 ## Thông Tin
 
-- **Họ và tên:** Nguyen Xuan Loc
-- **MSSV:** 2011064700
+- **Họ và tên:** Nguyễn Mai Ngọc Lâm
+- **MSSV:** 2011064417
 - **Lớp:** 20DTHA6
 - **Năm học:** 2020-2024
 - **Khoa:** CNTT
