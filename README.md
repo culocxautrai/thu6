@@ -1,5 +1,5 @@
-# Le Cong Tuyen
-## 05/03/2002
+# Nguyen Xuan Loc
+## 06/09/2002
 ### hien dang la sinh vien nam 4
 # Website bán hàng online
 
@@ -25,8 +25,8 @@ Tôi tin rằng mỗi ngày là một cơ hội mới để học hỏi và phá
 
 ## Thông Tin
 
-- **Họ và tên:** Lê CÔng Tuyển
-- **MSSV:** 2011063102
+- **Họ và tên:** Nguyen Xuan Loc
+- **MSSV:** 2011064700
 - **Lớp:** 20DTHA6
 - **Năm học:** 2020-2024
 - **Khoa:** CNTT
